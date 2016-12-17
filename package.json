@@ -1,0 +1,22 @@
+{
+  "name": "abc",
+  "version": "1.0.0",
+  "description": "meanstackproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmKarki123/broadwaymeanstack.git"
+  },
+  "author": "om karki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmKarki123/broadwaymeanstack/issues"
+  },
+  "homepage": "https://github.com/OmKarki123/broadwaymeanstack#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
